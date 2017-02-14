@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "Console\ConsoleApplication.csproj", "{A0F3275C-8174-48AC-A25F-B24A29458BCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90369815-6AAA-4F8F-BA34-6FA33C42B6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers2Words", "Numbers2Words\Numbers2Words.csproj", "{DEFAA1DC-0012-45D6-ADA4-E303EFB0315B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{F8D92326-541D-4D4B-BDF4-381C1DC679A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{CE00AD73-0588-4A18-9801-E79BCAA0F620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F3275C-8174-48AC-A25F-B24A29458BCA}.Debug|x86.ActiveCfg = Debug|x86
+		{A0F3275C-8174-48AC-A25F-B24A29458BCA}.Debug|x86.Build.0 = Debug|x86
+		{A0F3275C-8174-48AC-A25F-B24A29458BCA}.Release|x86.ActiveCfg = Release|x86
+		{A0F3275C-8174-48AC-A25F-B24A29458BCA}.Release|x86.Build.0 = Release|x86
+		{DEFAA1DC-0012-45D6-ADA4-E303EFB0315B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DEFAA1DC-0012-45D6-ADA4-E303EFB0315B}.Debug|x86.Build.0 = Debug|Any CPU
+		{DEFAA1DC-0012-45D6-ADA4-E303EFB0315B}.Release|x86.ActiveCfg = Release|Any CPU
+		{DEFAA1DC-0012-45D6-ADA4-E303EFB0315B}.Release|x86.Build.0 = Release|Any CPU
+		{F8D92326-541D-4D4B-BDF4-381C1DC679A4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8D92326-541D-4D4B-BDF4-381C1DC679A4}.Debug|x86.Build.0 = Debug|Any CPU
+		{F8D92326-541D-4D4B-BDF4-381C1DC679A4}.Release|x86.ActiveCfg = Release|Any CPU
+		{F8D92326-541D-4D4B-BDF4-381C1DC679A4}.Release|x86.Build.0 = Release|Any CPU
+		{CE00AD73-0588-4A18-9801-E79BCAA0F620}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE00AD73-0588-4A18-9801-E79BCAA0F620}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE00AD73-0588-4A18-9801-E79BCAA0F620}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE00AD73-0588-4A18-9801-E79BCAA0F620}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

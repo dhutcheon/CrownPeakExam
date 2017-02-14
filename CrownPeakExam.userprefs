@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A0F3275C-8174-48AC-A25F-B24A29458BCA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Numbers2Words/Number2Word.cs">
+    <Files>
+      <File FileName="Numbers2Words/Number2Word.cs" Line="153" Column="4" />
+      <File FileName="Tests/Numbers2WordsTest.cs" Line="239" Column="1" />
+      <File FileName="Console/Program.cs" Line="33" Column="78" />
+      <File FileName="Poker/Result.cs" Line="24" Column="9" />
+      <File FileName="Tests/PokerTest.cs" Line="252" Column="7" />
+      <File FileName="Poker/Hand.cs" Line="190" Column="37" />
+      <File FileName="Poker/CardConstants.cs" Line="5" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/Test.cs" relfile="Tests/Test.cs" line="27" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/Numbers2WordsTest.cs" relfile="Tests/Numbers2WordsTest.cs" line="15" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/PokerTest.cs" relfile="Tests/PokerTest.cs" line="31" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/PokerTest.cs" relfile="Tests/PokerTest.cs" line="44" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/PokerTest.cs" relfile="Tests/PokerTest.cs" line="98" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/PokerTest.cs" relfile="Tests/PokerTest.cs" line="177" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/Numbers2WordsTest.cs" relfile="Tests/Numbers2WordsTest.cs" line="239" column="1" />
+      <Breakpoint file="/Users/david.hutcheon/Documents/Development/CrownPeakExam/Tests/Numbers2WordsTest.cs" relfile="Tests/Numbers2WordsTest.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

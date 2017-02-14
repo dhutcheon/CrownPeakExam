@@ -1,0 +1,9 @@
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Numbers2Words.dll
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Numbers2Words.dll.mdb
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Poker.dll
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Poker.dll.mdb
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Console.exe.mdb
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/bin/Debug/Console.exe
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/obj/x86/Debug/Console.exe
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Console/obj/x86/Debug/Console.exe.mdb

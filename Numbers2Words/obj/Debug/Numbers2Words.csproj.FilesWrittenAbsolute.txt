@@ -1,0 +1,5 @@
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Numbers2Words/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Numbers2Words/bin/Debug/Numbers2Words.dll.mdb
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Numbers2Words/bin/Debug/Numbers2Words.dll
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Numbers2Words/obj/Debug/Numbers2Words.dll
+/Users/david.hutcheon/Documents/Development/CrownPeakExam/Numbers2Words/obj/Debug/Numbers2Words.dll.mdb
