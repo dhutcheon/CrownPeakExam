@@ -11,22 +11,22 @@ These instructions will get you a copy of the project up and running on your loc
 This project was created using Visual Studio for Mac. While this has not been tested on a Windows version of Visual Studio, any recent version of VS should be compatible.
 
 ### Installing
-1) Download the solution from GitHub: https://github.com/dhutcheon/CrownPeakExam
-2) Open the solution file in Visual Studio
-3) The application can be run in VS, by using the "Run" or "Debug" buttons
-4) If using a Mac, make sure to set the Run Configuration to Run on external console and Pause console output (Under Run -> Run With -> Custom Configuration...)
+1. Download the solution from GitHub: https://github.com/dhutcheon/CrownPeakExam
+2. Open the solution file in Visual Studio
+3. The application can be run in VS, by using the "Run" or "Debug" buttons
+4. If using a Mac, make sure to set the Run Configuration to Run on external console and Pause console output (Under Run -> Run With -> Custom Configuration...)
 
 ## Running the tests
 
-1) On VS for Mac, Right click on the Tests Project and select Run Item
+1. On VS for Mac, Right click on the Tests Project and select Run Item
 - OR -
-2) From the Unit Tests panel, right click the test or group of tests you want to run and select "Run Test" or "Debug Test"
+2. From the Unit Tests panel, right click the test or group of tests you want to run and select "Run Test" or "Debug Test"
 
 ## Deployment
 
-1) Right click on solution and choose "Build Solution" 
-2) Open solution in Windows Explorer or Mac Finder and open Console/bin directory
-3) Locate the .exe in the build profile directory that you selected (Debug/Release)
+1. Right click on solution and choose "Build Solution" 
+2. Open solution in Windows Explorer or Mac Finder and open Console/bin directory
+3. Locate the .exe in the build profile directory that you selected (Debug/Release)
 
 ## Built With
 
