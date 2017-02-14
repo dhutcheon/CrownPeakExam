@@ -30,8 +30,8 @@ This project was created using Visual Studio for Mac. While this has not been te
 
 ## Built With
 
-* [Microsoft .NET](https://www.microsoft.com/net) - Development Framework
-* [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - IDE
+* [Microsoft .NET](https://www.microsoft.com/net)
+* [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * [NUnit](https://www.nunit.org/) - Unit Testing
 
 ## Versioning
